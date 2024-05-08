@@ -1,0 +1,8 @@
+Spawn_Locations:
+  player1:
+  player2:
+
+Messages:
+  No_Permission: "&cYou don't have permission to perform this command."
+  Console_Exception: "&cThis command only can be performed by a player!"
+  Player_Not_Found: "&4Player not found! Usage: &a/Coliseo <player>"
